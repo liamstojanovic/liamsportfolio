@@ -1,79 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Liam&#39;s &#39;folio
-</title>
+    <title>Welcome! on Liam Stojanovic&#39;s Site</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Liam&#39;s &#39;folio
-</description>
-    <generator>Hugo -- 0.147.9</generator>
+    <description>Recent content in Welcome! on Liam Stojanovic&#39;s Site</description>
+    <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Dec 2022 14:43:21 -0500</lastBuildDate>
+    <lastBuildDate></lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects and Hobbies</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Fri, 23 Dec 2022 14:43:21 -0500</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;p&gt;Over the years I have picked up (and dropped!) many different projects and hobbies.&lt;/p&gt;
-&lt;h1 id=&#34;personal-projects&#34;&gt;Personal projects&lt;/h1&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Project&lt;/th&gt;
-          &lt;th&gt;Start Date&lt;/th&gt;
-          &lt;th&gt;Status&lt;/th&gt;
-          &lt;th&gt;Link&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Candid Crypto Podcast&lt;/td&gt;
-          &lt;td&gt;April 2021&lt;/td&gt;
-          &lt;td&gt;Ongoing&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://candidcryptopodcast.com&#34;&gt;Candid Crypto&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Youtube Channel&lt;/td&gt;
-          &lt;td&gt;April 2019&lt;/td&gt;
-          &lt;td&gt;On and off&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.youtube.com/channel/UC5WHMmBfaghru_t556jzk1A&#34;&gt;Youtube&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Voiceover acting&lt;/td&gt;
-          &lt;td&gt;December 2019&lt;/td&gt;
-          &lt;td&gt;On and off&lt;/td&gt;
-          &lt;td&gt;&lt;a href=&#34;https://www.fiverr.com/liam_stojanovic&#34;&gt;Fiverr&lt;/a&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Fri, 23 Dec 2022 14:37:11 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi there! My name is Liam Stojanovic. I am a software developer, with a background in QA and web app development.&lt;/p&gt;
-&lt;p&gt;I have always been interested in software and have been fortunate enough to turn my passions into a career.&lt;/p&gt;
-&lt;p&gt;Outside of work, I enjoy listening to music, exploring nature and working on my podcast. I am also an avid Above and Beyond fan and enjoy spending time with my friends and family.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Resume 5.0</title>
-      <link>http://localhost:1313/posts/resume-5-0/</link>
-      <pubDate>Sat, 15 Oct 2022 17:42:32 -0400</pubDate>
-      <guid>http://localhost:1313/posts/resume-5-0/</guid>
-      <description>&lt;p&gt;The link to resume v5.0 can be found here:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;files/Resume_v5_0.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Liam&#39;s first post!</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Tue, 04 Oct 2022 17:30:07 -0400</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
-&lt;p&gt;My name is Liam. I am a software developer and content creator.&lt;/p&gt;
-&lt;h3 id=&#34;notice-anything-new&#34;&gt;&amp;ldquo;Notice anything new?&amp;rdquo;&lt;/h3&gt;
-&lt;p&gt;New MBP, who dis!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

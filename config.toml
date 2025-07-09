@@ -1,44 +1,27 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
-title = '''
-Liam's 'folio
-'''
+title = "Liam Stojanovic's Site"
 theme = 'PaperMod'
 
 [params]
 defaultTheme = "auto"
 disableThemeToggle = true
+homeInfoParams = false
 
 [[menu.main]]
-identifier = "about"
-name = "about"
-url = "/about"
-weight = 10
-
-[[menu.main]]
-identifier = "posts"
-name = "posts"
-url = "/posts"
-weight = 20
-
-[[menu.main]]
-identifier = "projects"
-name = "projects"
-url = "/projects"
-weight = 30
+name = ""
+url = ""
+weight = 1
 
 [params.profileMode]
 enabled = true
-title = ""
-subtitle = "Find me on:"
+title = "Hi! :)"
+subtitle = "Former Fortune 100 consultant turned indie builder. Follow along as I craft software and share what I learn! More to come soon."
 imageUrl = "/liam.jpeg"
 imageTitle = "Liam Mihailo Stojanovic"
 imageWidth = 120
 imageHeight = 120
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/StojanovicLiam"
+buttons = []
 
 [[params.socialIcons]]
 name = "github"
@@ -51,3 +34,11 @@ url = "https://www.freecodecamp.org/liamstojanovic"
 [[params.socialIcons]]
 name = "youtube"
 url = "https://www.youtube.com/channel/UC5WHMmBfaghru_t556jzk1A"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:talk_to_liam@proton.me"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/liam-stojanovic/"
