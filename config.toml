@@ -1,0 +1,53 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = '''
+Liam's 'folio
+'''
+theme = 'PaperMod'
+
+[params]
+defaultTheme = "auto"
+disableThemeToggle = true
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/about"
+weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts"
+weight = 20
+
+[[menu.main]]
+identifier = "projects"
+name = "projects"
+url = "/projects"
+weight = 30
+
+[params.profileMode]
+enabled = true
+title = ""
+subtitle = "Find me on:"
+imageUrl = "/liam.jpeg"
+imageTitle = "Liam Mihailo Stojanovic"
+imageWidth = 120
+imageHeight = 120
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/StojanovicLiam"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/liamstojanovic"
+
+[[params.socialIcons]]
+name = "freecodecamp"
+url = "https://www.freecodecamp.org/liamstojanovic"
+
+[[params.socialIcons]]
+name = "youtube"
+url = "https://www.youtube.com/channel/UC5WHMmBfaghru_t556jzk1A"

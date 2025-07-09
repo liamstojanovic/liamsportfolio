@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Liam&#39;s &#39;folio
+</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Liam&#39;s &#39;folio
+</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 15 Oct 2022 17:42:32 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume 5.0</title>
+      <link>http://localhost:1313/posts/resume-5-0/</link>
+      <pubDate>Sat, 15 Oct 2022 17:42:32 -0400</pubDate>
+      <guid>http://localhost:1313/posts/resume-5-0/</guid>
+      <description>&lt;p&gt;The link to resume v5.0 can be found here:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;files/Resume_v5_0.pdf&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Liam&#39;s first post!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 04 Oct 2022 17:30:07 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;
+&lt;p&gt;My name is Liam. I am a software developer and content creator.&lt;/p&gt;
+&lt;h3 id=&#34;notice-anything-new&#34;&gt;&amp;ldquo;Notice anything new?&amp;rdquo;&lt;/h3&gt;
+&lt;p&gt;New MBP, who dis!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
