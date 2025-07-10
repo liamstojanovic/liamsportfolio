@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://itsliam.com/'
 languageCode = 'en-us'
 title = "Liam Stojanovic's Site"
 theme = 'PaperMod'
@@ -17,7 +17,7 @@ weight = 1
 enabled = true
 title = "Hi!"
 subtitle = "Former Fortune 100 consultant turned indie builder. Follow along as I craft software and share what I learn! More to come..."
-imageUrl = "/liam.jpeg"
+imageUrl = "https://f002.backblazeb2.com/file/share-liam/portfolio_site/images/liam.jpeg"
 imageTitle = "Liam Mihailo Stojanovic"
 imageWidth = 120
 imageHeight = 120
