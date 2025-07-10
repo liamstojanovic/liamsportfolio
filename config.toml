@@ -15,8 +15,8 @@ weight = 1
 
 [params.profileMode]
 enabled = true
-title = "Hi! :)"
-subtitle = "Former Fortune 100 consultant turned indie builder. Follow along as I craft software and share what I learn! More to come soon."
+title = "Hi!"
+subtitle = "Former Fortune 100 consultant turned indie builder. Follow along as I craft software and share what I learn! More to come..."
 imageUrl = "/liam.jpeg"
 imageTitle = "Liam Mihailo Stojanovic"
 imageWidth = 120
