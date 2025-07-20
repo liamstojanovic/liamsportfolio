@@ -60,28 +60,18 @@
 
 <body class="list" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
+  var _paq = window._paq = window._paq || [];
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://itsliam.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://cdn.matomo.cloud/itsliam.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
 </script>
-
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="Liam Stojanovic&#39;s Site (Alt + H)">Liam Stojanovic&#39;s Site</a>
-            <div class="logo-switches">
-            </div>
-        </div>
-        <ul id="menu">
-            <li>
-                <a href="http://localhost:1313/" title="">
-                    <span></span>
-                </a>
-            </li>
-        </ul>
-    </nav>
-</header>
 <main class="main">
 <div class="not-found">404</div>
     </main>
