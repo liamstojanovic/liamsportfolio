@@ -16,7 +16,7 @@ weight = 1
 [params.profileMode]
 enabled = true
 title = "Hi!"
-subtitle = "Former Fortune 100 consultant turned indie builder. Join me as I craft software and share what I learn! More to come..."
+subtitle = "I'm an indie builder and consultant. Lately I've been working on a Discord bot. More to follow..."
 imageUrl = "https://f002.backblazeb2.com/file/share-liam/portfolio_site/images/liam+-+1.jpeg"
 imageTitle = "Liam Mihailo Stojanovic"
 imageWidth = 120
@@ -26,10 +26,6 @@ buttons = []
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/liamstojanovic"
-
-[[params.socialIcons]]
-name = "freecodecamp"
-url = "https://www.freecodecamp.org/liamstojanovic"
 
 [[params.socialIcons]]
 name = "youtube"
@@ -42,3 +38,7 @@ url = "mailto:talk_to_liam@proton.me"
 [[params.socialIcons]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/liam-stojanovic/"
+
+[[params.socialIcons]]
+name = "other"
+url = "https://candidcryptopodcast.com"
