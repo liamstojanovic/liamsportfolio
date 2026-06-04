@@ -36,6 +36,9 @@ Temporary Items
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
+# Hugo build output
+public/
+
 # Code generation
 CLAUDE.md
 WARP.md
