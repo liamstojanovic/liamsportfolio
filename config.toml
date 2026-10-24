@@ -33,7 +33,7 @@ url = "https://www.youtube.com/channel/UC5WHMmBfaghru_t556jzk1A"
 
 [[params.socialIcons]]
 name = "email"
-url = "mailto:talk_to_liam@proton.me"
+url = "mailto:hello@itsliam.com"
 
 [[params.socialIcons]]
 name = "linkedin"
