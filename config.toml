@@ -16,7 +16,7 @@ weight = 1
 [params.profileMode]
 enabled = true
 title = "Hi!"
-subtitle = "I'm an indie builder and consultant. Lately I've been working on a Discord bot. More to follow..."
+subtitle = "I'm an indie builder and consultant, seeking opportunities. Based in Miami FL."
 imageUrl = "https://f002.backblazeb2.com/file/share-liam/portfolio_site/images/liam+-+1.jpeg"
 imageTitle = "Liam Mihailo Stojanovic"
 imageWidth = 120
